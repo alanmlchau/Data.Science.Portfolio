@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Data.Science.Portfolio
 An ongoing development of various personal projects
 
 ## Data Preprocessing 
