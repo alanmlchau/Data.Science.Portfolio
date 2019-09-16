@@ -1,7 +1,7 @@
 # Data.Science.Portfolio
 
 
-## Preprocessing Data of Renewabl Energy Development and Usage amoung Countries  
+## Preprocessing Data of Renewable Energy Development and Usage amoung Countries  
   The goal of this project is to preprocess the data (elimilating Nan, selecting needed data, etc.) of [Energy Indicators.xls](https://github.com/alanmlchau/Data.Science.Portfolio/blob/master/Document/Data%20Preprocessing/Energy%20Indicators.xls)  (a list of indicators of energy supply and renewable electricity production from the United Nations for the year 2013), [world_bank.csv](https://github.com/alanmlchau/Data.Science.Portfolio/blob/master/Document/Data%20Preprocessing/world_bank.csv) (countries' GDP from 1960 to 2015 from World Bank) and [scimagojr-3.csv](https://github.com/alanmlchau/Data.Science.Portfolio/blob/master/Document/Data%20Preprocessing/scimagojr-3.csv) (which use data from 1996-2018 to rank countries based on their journal contributions in the aforementioned area) and then combine all three data set to answer various questions regarding renewable energy usage and development among the countries. The final dataframe after preprocessing with the top ranked 15 countries is [here](https://github.com/alanmlchau/Data.Science.Portfolio/blob/master/Document/Data%20Preprocessing/final.csv), and explicit code can be viewed [here](https://github.com/alanmlchau/Data.Science.Portfolio/blob/master/Notebook/Data%20Preprocessing.py)
 
  ## Visualization of the National Oceanic and Atmospheric (NOAA) Dataset near Ann Arbor, Michigan, United States
